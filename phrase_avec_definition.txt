@@ -1,0 +1,677 @@
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2000-long-016_annoteCommun.txt
+
+
+Le transfert agit au 
+niveau de <terme>représentations hybrides</terme><MR>, appelées</MR> <denom>structures pseudo-sémantiques (PSS)</denom> <MR>qui</MR> <definition>combinent les éléments lexicaux à des informations sémantiques abstraites</definition>.
+Ainsi, <terme>HPSG (Pollard & Sag, 1994) </terme> <MR>est</MR> <definition>une grammaire d’unification basée sur les contraintes</definition>.
+La théorie de "Principes & Paramètres"(Chomsky & Lasnik, 1995) propose une approche différente: <terme>la grammaire</terme> <MR>est considérée comme</MR> <definition>un ensemble de principes interactifs de grammaticalité, qui sont indépendants de la langue (projections syntagmatiques, interface lexiquesyntaxe, attachement gauche-droite, interprétation thématique), combinés à des paramètres spécifiques à chaque langue (cliticisation du pronom en français, insertion du "do" en anglais etc.)</definition>.
+Ceci est dû au 
+<terme>phénomène du "brassage"</terme> <MR>(</MR><denom>scrambling</denom><MR>)</MR>, <definition>grâce auquel l’ordre des mots 
+pour le sujet, les objets et les ajouts éventuels est relativement libre</definition> 
+en allemand.
+<terme>L’interlangue</terme> <MR>consiste 
+en</MR> <definition>des représentations abstraites d’entités et de 
+fonctions linguistiques qui fonctionnent comme une "troisième langue" qui 
+relie la langue source à la langue cible</definition>.
+Ainsi, les arguments non phrastiques 
+sont représentés par <terme>des structures DP</terme> <MR>(</MR><denom>DP-Structures, DPS</denom><MR>)</MR>, de type 
+opérateur-propriété, <MR>qui correspondent à</MR> <definition>la relation syntaxique 
+déterminant-substantif</definition>.
+A partir des résultats de l’analyse, une composante de transfert dérive 
+<terme>des représentations lexico-sémantiques hybrides</terme><MR>, appelées</MR> <denom>structures 
+pseudo-sémantiques (pseudosemantic structures, PSS)</denom><MR>, qui</MR> <definition>combinent un 
+transfert lexical avec des informations fonctionnelles et sémantiques 
+abstraites</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-010_annoteIE_new.txt
+
+
+La forme générale d’<terme>une structure énumérative</terme> <MR>(</MR><denom>SE</denom><MR>)</MR> <MR>est caractérisée par</MR> <definition>une amorce, une énumération composée d’au moins deux items et éventuellement une clôture (ou conclusion)</definition>.
+<MR>La définition qui nous semble le mieux</MR> prendre en compte à la fois les phénomènes architecturaux du texte et l’intention de l’auteur est celle proposée par (Virbel, 1999) : « <terme>énumérer</terme> <definition>mobilise deux actes : un acte mental d’identification des éléments d’une réalité du monde dont on vise un recensement, et où on établit une relation d’égalité d’importance par rapport au motif de recensement ; et un acte textuel qui consiste à transposer textuellement la coénumérabilité des entités recensées, par la coénumérabilité des segments linguistiques qui les décrivent.
+<terme>Les structures syntagmatiques</terme> <definition>entretiennent des liens de dépendance entre les items</definition>, et les structures non isolées entretiennent des relations avec des unités textuelles localisées en dehors de la structure énumérative.
+FIGURE 1 – Représentations sémantiques de la structure énumérative
+
+Notre étude se focalise ici sur la SE parallèle car son analyse rhétorique (basée, par exemple, sur les principes de la RST (Carlson et al., 2001)) permet d’établir <terme>une relation noyau-satellite</terme> <MR>qui</MR> <definition>relie l’amorce (unité d’information la plus saillante) à l’énumération (unité d’information qui supporte l’information d’arrière-plan)</definition>, et <terme>une relation multi-nucléaire</terme> <MR>qui</MR> <definition>relie les items (arguments de même importance)</definition>.
+<MR>Ce dernier vise à</MR> <definition>définir une contrainte pour chaque information observée et choisir la distribution qui maximise l’entropie tout en restant consistante vis-à-vis de l’ensemble de ces contraintes (Jaynes, 1957)</definition>.
+4.2      Approche par traits
+
+Comme présenté dans la section 2, <terme>les SE parallèles</terme> <MR>sont</MR> <definition>des objets textuels qui conjuguent marqueurs de MFM et propriétés lexico-syntaxiques partiellement stables</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2000-long-016_annoteIE.txt
+
+
+<definition>Il s’agit d’un prototype de traduction automatique en cours de développement pour le français, l’anglais, l’allemand et l’italien, basé sur la technique analysetransfert-génération</definition>.
+Ainsi, <terme>HPSG (Pollard & Sag, 1994) </terme> <definition>est une grammaire d’unification basée sur les contraintes.</definition>
+La théorie de ((Principes & Paramètres))(Chomsky & Lasnik, 1995) propose une approche différente: la grammaire est considérée comme un ensemble de principes interactifs de grammaticalité, qui sont indépendants de la langue (projections syntagmatiques, interface lexiquesyntaxe, attachement gauche-droite, interprétation thématique), combinés à des paramètres spécifiques à chaque langue (cliticisation du pronom en français, insertion du ((do)) en anglais etc.).
+<terme>IPS</terme> <definition>est un 
+analyseur à stratégie ascendante qui poursuit toutes les alternatives en 
+parallèle</definition>.
+<terme>L’interlangue</terme> <definition>consiste 
+en des représentations abstraites d’entités et de 
+fonctions linguistiques qui fonctionnent comme une "troisième langue" qui 
+relie la langue source à la langue cible</definition>.
+Traduction à l’aide de structures pseudo-sémantiques
+<terme>Le prototype ITS-3</terme> <definition>est un outil de traduction qui se sert des structures d’interface 
+abstraites appelées structures pseudo-sémantiques (pseudo-semantic 
+structures, PSS) (Etchegoyhen & Wehrli, 1998)</definition>.
+C’est pourquoi <terme>la traduction sur 
+Internet</terme> <definition>est une des 
+applications les plus recherchées de la traduction automatique</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-004_annoteIE_new.txt
+
+
+Dans cet article, nous proposons une méthode pour rééquilibrer de tels thésaurus en faveur des mots de fréquence faible sur la base d’<terme>un mécanisme d’amorçage</terme> <MR>:</MR> <definition>un ensemble d’exemples et de contre-exemples de mots sémantiquement similaires sont sélectionnés de façon non supervisée et utilisés pour entraîner un classifieur supervisé</definition>.
+La dernière option pour la construction d’une mesure de similarité sémantique prend appui sur un corpus en généralisant <terme>l’hypothèse distributionnelle</terme> <MR>:</MR> <definition>chaque mot est caractérisé par l’ensemble des contextes dans lesquels il apparaît pour un corpus donné et la similarité sémantique de deux mots est évaluée sur la base de la proportion de contextes que ces deux mots partagent</definition>.
+est la précision obtenue en se limitant aux R premiers voisins, R étant le nombre de synonymes dans la ressource de référence pour l’entrée considérée ; <terme>la MAP</terme> <MR>(</MR><denom>Mean Average Precision</denom><MR>)</MR> <MR>est</MR> <definition>la moyenne des précisions pour chacun des rangs auxquels un synonyme de référence a été identifié</definition> ; enfin, sont données les précisions pour différents seuils de nombre de voisins sémantiques examinés (précision après examen des 1, 5, 10 et 100 premiers voisins).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2011-long-025_annoteIE.txt
+
+
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2008-long-021_annoteIE.txt
+
+
+WordNet est construit sous la forme d'une hiérarchie de <terme>synsets</terme> <definition>(ensemble de lexies synonymes entre elles)</definition> ; ces concepts sont liés entre eux par différents types de <terme>relations sémantiques</terme> <exempl>(hypéronymie, méronymie, antonymie, etc.)</exempl>.
+Dans la suite de notre article, nous distinguerons systématiquement les notions de <terme>lexie</terme> <definition>(unité lexicale, association d’un signifiant et d’un signifié)</definition> et de <terme>vocable</terme> <definition>(unité polysémique regroupant différentes lexies de même signifiant)</definition>.
+Par exemple, parmi les occurrences de la relation entre un mouvement et le son associé, nous obtenons pour « (bruit de) pas » une paire de synsets dont les définitions comportent deux mots en commun (donnant une similarité égale à 48,5%) :
+  {footstep#1} = the sound of a step of someone walking 
+  {footstep#2} = the act of taking a step in walking
+
+9 <terme>TF-IDF</terme> <denom>(term frequency-inverse document frequency)</denom> <definition>est une méthode de pondération souvent utilisée dans la fouille de textes</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-014_annoteIE_new.txt
+
+
+Les avantages les plus connus sont, sur le plan linguistique, la possibilité de créer <terme>des dépendances croisées</terme> <MR>(</MR><definition>arbres non projectifs</definition><MR>)</MR> et l'expression efficace des structures argumentales des verbes.
+Pour passer d'un texte brut a un réseau de dépendances syntaxiques, Talismane utilise une analyse en cascade avec quatre étapes classiques pour ce type de tache : le découpage en phrases (non traité ici), la segmentation en mots, <terme>l'étiquetage</terme> <MR>(</MR><definition>attribution d'une catégorie morphosyntaxique</definition><MR>)</MR>, et <terme>le parsing</terme> <MR>(</MR><definition>repérage et étiquetage des dépendances syntaxiques entre les mots</dependance><MR>)</MR>.
+Chacun des modules est configurable a la fois au niveau des traits et des règles <terme>Les traits</terme> <MR>sont</MR> <definition>les informations sur les configurations rencontrées dont dispose l'algorithme pour prendre chacune des décisions</definition>, alors que <terme>les règles</terme> <MR>sont</MR> <definition>des contraintes qui forcent (ou interdisent) des décisions locales</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2014-long-020_annoteIE.txt
+
+
+1) Nous montrons comment améliorer globalement les listes de voisins en prenant en compte <terme>la réciprocité de la relation de voisinage</terme>, <definition>c’est-à-dire le fait qu’un mot soit un voisin proche d’un autre et vice-versa.</definition>
+2) Nous proposons également une méthode permettant d’associer à chaque liste de voisins (i.e.
+1) Nous montrons comment améliorer globalement les listes de voisins en prenant en compte <terme>la réciprocité de la relation de voisinage</terme>, <definition>c’est-à-dire le fait qu’un mot soit un voisin proche d’un autre et vice-versa</definition> (section 4).
+Dans le cas de (Ferret, 2012), cette sélection est fondée sur <terme>un critère de symétrie de la relation de similarité sémantique</terme> : <definition>si A est trouvé comme voisin proche de B et B comme voisin proche de A, A et B sont probablement des exemples positifs de mots sémantiquement similaires</definition>.
+Pour trouver les voisins distributionnels d’un mot, l’ensemble des contextes collectés pour ce mot sert de requête, qui est alors utilisée pour trouver <terme>les mots les plus proches</terme> <definition>(i.e.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2012-long-007_annoteIE_new.txt
+
+
+L’autre, <terme>la vectorisation</terme><MR>, est </MR><definition>une technique de calcul de similarité</definition> que nous avons développée et qui offrent d’intéressantes propriétés.
+Dans le cas des textes, ces représentations consistent souvent à considérer <terme>le document</terme> <MR>(ou n’importe quelle</MR> <definition>donnée textuelle</definition>) comme <terme>un sac-de-mots</terme><MR>, c’est-à-dire</MR> <definition>un ensemble non structuré, sans information sur la séquentialité des mots dans le texte</definition>.
+Finalement, <terme>le texte</terme> <MR>est donc décrit comme</MR> <definition>un vecteur d’un espace ayant pour dimensions tous les mots du vocabulaire</definition>.
+Pour deux documents d et q (ou un document et une requête), la distance Lp est définie comme suit (on note V <terme>le vocabulaire de la collection</terme><MR>, c’est-à-dire,</MR><definition> l’ensemble des termes d’indexation de tous les documents</definition><MR>)</MR> : sX δLp (q, d) = p |qt − dt |p t∈V
+
+Les valeurs les plus courantes sont p = 1 (distance L1, dite manhattan ou city-block), p = 2 (distance L2 ou euclidienne), ou p → ∞ (distance de Chebyshev) ; p n’est pas nécessairement un entier mais doit être supérieur à 1 pour que soit respectée l’inégalité triangulaire.
+2.3  Pondérations
+
+<terme>Les pondérations</terme> <MR>sont</MR> <definition>une des caractéristiques majeures du modèle vectoriel introduit par Salton (1975)</definition>.
+La première est <terme>le TF</terme>, issue des travaux de Luhn (1958)<MR> : </MR><definition>plus le terme est fréquent dans le document, plus il est jugé pertinent</definition>.
+La seconde, <terme>l’IDF</terme>, est souvent attribuée à Spärck Jones (1972) <MR>:</MR> <definition>plus un terme apparaît dans un grand nombre de document, moins il est pertinent</definition>.
+Sa formulation la plus connue est (<terme>tf</terme> <MR>est</MR> <definition>le nombre d’occurrence ou la fréquence du terme t dans le document considéré</definition>, df <terme>sa fréquence documentaire</terme><MR>, c’est-à-dire</MR> <definition>le nombre de documents dans lequel il apparaît</definition>, N est le nombre total de documents) : wT F −IDF (t, d) = tf (t, d) ∗ log(N/df (t))
+Sa formulation la plus connue est (tf est <terme>le nombre d’occurrence</terme> <MR>ou</MR> <definition>la fréquence du terme t dans le document considéré</definition>, df sa fréquence documentaire, c’est-à-dire le nombre de documents dans lequel il apparaît, N est le nombre total de documents) : wT F −IDF (t, d) = tf (t, d) ∗ log(N/df (t))
+Outre <terme>le TF-IDF</terme><MR>/</MR><syno>cosinus</syno>,beaucoup de techniques (pondérations et similarités) pour calculer des similarités dans des espaces algébriques existent (Tirilly, 2010, pour une revue).
+Score 
+FIGURE 1 – Schématisation du principe de vectorisation d’un document
+
+
+<terme>La vectorisation</terme> <MR>est</MR> <definition>une technique de plongement (embedding) permettant de projeter un calcul de similarité quelconque entre deux documents (ou un document et une requête pour la RI) dans un espace vectoriel</definition>.
+5.2 Approches proposées
+L’approche que nous avons proposée lors de notre participation repose sur <terme>un apprentissage paresseux</terme> <MR>(</MR><denom>lazy-learning</denom><MR>)</MR>, <MR>à savoir</MR> <definition>les k-plus proches voisins (k-ppv), qui se veut souple et adapté à la tâche</definition>.
+6.1 Description de la tâche
+
+<terme>La segmentation thématique</terme> <MR>est</MR> <definition>une tâche classique du TAL consistant à diviser un texte ou un flux textuel en parties thématiquement cohérentes<definition>.
+Il y a d’une part des approches s’appuyant sur des propriétés de <terme>formatage des documents</terme><MR>, ou</MR> sur <definition>la détection de marqueurs discursifs (Christensen et al., 2005)</definition>.
+La segmentation de référence a été effectuée indépendamment en considérant qu’<definition>un changement de thème a lieu à chaque changement de reportage</definition><MR>.
+Dans le cas de texte, il n’y a qu’une dimension à considérer, et <terme>le gradient</terme> <MR>est vu comme</MR> <definition>une mesure de distance textuelle</definition>.
+6.3 Résultats
+Pour évaluer la qualité des segmentation sur nos jeux de données, nous indiquons <terme>la mesure WindowDiff</terme> <MR>(</MR><denom>WD</denom><MR>)</MR>, habituellement utilisée pour l’évaluation de ce type de tâche,<MR> et qui peut être vu comme</MR> <definition>un taux d’erreurs</definition> (Pevzner et Hearst, 2002, pour une présentation détaillée).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-011_annoteIE_new.txt
+
+
+<MR>ll s'agit de</MR> <definition>repérer a la fois les régularités sous-jacentes et les caractéristiques discriminantes des énoncés-cibles</definition>.
+6 Mémoriser les contextes pertinents
+
+A l'origine, Scientext et son interface ScienQuest ont été prévus pour offrir a l'utilisateur 3 niveaux de requêtes : un niveau de <terme>concordancier</terme> <MR>dans lequel</MR> <definition>l'utilisateur est guidé pour fabriquer des requêtes pouvant combiner formes, lemmes, catégories morpho-syntaxiques et relations syntaxiques</definition> ; un niveau de <terme>requêtes sémantiques</terme><MR> dans lequel</MR> <definition>l'utilisateur sélectionne une requête sémantique pré-codée</definition> et enfin un niveau avancé dans lequel l'utilisateur code lui-méme sa requête avec le langage d'interrogation sous-jacent (Falaise et al., 2011b).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2015-long-025_annoteIE.txt
+
+
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2010-long-005_annoteIE.txt
+
+
+Par <terme>cooccurrence</terme>, nous entendons <definition>la présence simultanée et statistiquement significative, dans un corpus, de deux unités linguistiques ou plus en relation syntaxique</definition>.
+À ne pas confondre avec <terme>l’« information mutuelle spécifique »</terme> <denom>(PMI, pointwise mutual information)</denom>, <definition>qui est une mesure de dépendance entre deux événements X = x et Y = y.</definition> En théorie de l’information, l’information mutuelle mesure la dépendance de deux variables aléatoires X et Y, et correspond à la valeur espérée des PMI sur l’ensemble de toutes les éventualités de X et Y.
+
+Mettant à contribution l’analyseur syntaxique profond Fips, Seretan et coll.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2014-long-020_annoteIE_new.txt
+
+
+1) Nous montrons comment améliorer globalement les listes de voisins en prenant en compte <terme>la réciprocité de la relation de voisinage</terme><MR>, c’est-à-dire</MR> <definition>le fait qu’un mot soit un voisin proche d’un autre et vice-versa</definition>.
+Ces thésaurus <definition>associent à chacune de leurs entrées une liste de mots qui se veulent proches sémantiquement de l’entrée</definition>.
+Pour une grande part, ces méthodes reposent sur <terme>l’hypothèse distributionnelle</terme> de Firth (1957)<MR> :</MR> <definition>chaque mot est caractérisé par l’ensemble des contextes dans lesquels il apparaît, et la proximité sémantique de deux mots peut être déduite de la proximité de leurs contextes</definition>.
+1) Nous montrons comment améliorer globalement les listes de voisins en prenant en compte <terme>la réciprocité de la relation de voisinage</terme><MR>, c’est-à-dire</MR> <definition>le fait qu’un mot soit un voisin proche d’un autre et vice-versa</definition> (section 4).
+2.1  Construction des thésaurus
+
+Si l’on considère comme point de référence le paradigme défini par Grefenstette (1994), repris à sa suite notamment par Lin (1998) et Curran & Moens (2002), une première voie d’amélioration a porté sur la pondération <terme>des éléments constitutifs des contextes distributionnels</terme><MR>,</MR> <definition>simples mots dans le cas de cooccurrents graphiques et paires (mot, relation de dépendance syntaxique) dans le cas de cooccurrents syntaxiques</definition>.
+Dans le cas de (Ferret, 2012), cette sélection est fondée sur <terme>un critère de symétrie de la relation de similarité sémantique</terme><MR> : </MR><definition>si A est trouvé comme voisin proche de B et B comme voisin proche de A, A et B sont probablement des exemples positifs de mots sémantiquement similaires</definition>.
+3
+3.1  Modèle de RI pour la construction de thésaurus distributionnels
+Principes
+
+Comme cela apparaît dans les travaux cités de l’état-de-l’art, le cœur <terme>des approches distributionnelles</terme> <MR>est</MR> <definition>de calculer des similarités entre représentations textuelles des contextes des mots étudiés</definition>.
+Pour trouver les voisins distributionnels d’un mot, l’ensemble des contextes collectés pour ce mot sert de requête, qui est alors utilisée pour trouver <terme>les mots les plus proches</terme> <MR>(i.e.</MR> <definition>dont les contextes sont les plus proches</definition><MR>)</MT> au sens d’une mesure de similarité RI.
+Ce dernier modèle <MR>peut être vu comme</MR> <definition>une version plus moderne du TF-IDF, prenant notamment mieux en compte les différences de tailles des documents</definition>.
+<MR>Il s’agit de</MR> <exempl>la précision</exempl> à divers seuils (après 1, 5, 10, 50, 100 voisins, notés P@1, P@5...), <terme>la Mean Average Precision</terme> <MR>(</MR><denom>MAP</denom><MR>,</MR> <definition>moyenne des précisions calculées après chaque mot de la référence trouvé</definition><MR>)</MR>, <terme>la R-précision</terme> <MR>(</MR><denom>Rprec</denom><MR>,</MR> <definition>précision après R voisins ou R est le nombre de voisins dans la liste de référence pour le nom examiné</definition><MR>)</MR>.
+Il semble alors raisonnable de penser que <terme>la réciprocité de voisinage entre deux mots</terme> <MR>(</MR><definition>chacun est dans les k plus proches voisins de l’autre</definition><MR>)</MR> est tout de même un gage de confiance sur la proximité entre ces mots.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2007-long-002_annoteIE_new.txt
+
+
+1  Introduction
+
+Hopfield (Hopfield, 1982; Hertz et al., 1991) s’est inspiré des systèmes physiques comme <terme>le modèle magnétique d’Ising</terme> <MR>(</MR><definition>formalisme issu de la physique statistique decrivant un système avec des unités à deux états nommées spins<definition><MR>)</MR> pour construire un réseau neuronal avec des capacités d’apprentissage et de récupération de patrons.
+Cette interaction nous allons <MR>la définir comme</MR> <definition>l’énergie textuelle d’un document</definition>.
+<terme>L’énergie</terme> <MR>est</MR> <definition>fonction de la configuration du système, c’est-à-dire, de l’état (d’activation ou non activation) ces unités</definition>.
+Nous allons nous différencier de (Hopfield, 1982) sur deux points : S est <terme>une matrice entière</terme> <MR>(</MR><definition>ses éléments prennent des valeurs fréquentielles absolues</definition><MR>)</MR> et nous utilisons les éléments J i,i car cette auto-corrélation permet d’établir l’interaction du mot i parmi les P phrases, ce qui est important en TALN.
+3.1  <terme>L’énergie textuelle</terme> <MR>:</MR> <definition>une nouvelle mesure de similarité</definition>
+
+Nous allons expliquer théoriquement la nature des liens entre phrases que la mesure d’énergie textuelle induit.
+<MR>Considérons</MR> <terme>les phrases</terme> comme <definition>des ensembles σ de mots</definition>.
+4  Expériences et résultats
+
+<terme>L’énergie textuelle</terme> <MR>peut être utilisée comme</MR> <definition>mesure de similarité dans les applications du TALN</definition>.
+Une autre approche, moins évidente, consiste à utiliser l’information de <terme>cette énergie</terme> <MR>(vue comme</MR> <definition>un spectre ou signal numérique de la phrase</definition><MR>)</MR> et de la comparer au spectre de toutes les autres.
+Nous avons evalué les résumés produits par notre système avec ROUGE (Lin, 2004), qui mesure la similarité, suivant plusieurs stratégies, entre <terme>un résumé candidat</terme> <MR>(</MR><definition>produit automatiquement</definition>MR>)</MR> et <terme>des résumés de référence</terme> <MR>(</MR><definition>créés par des humains</definition><MR>)</MR>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2009-long-023_annoteIE.txt
+
+
+Deux analyseurs syntaxiques sont utilisés afin de générer des corrections :
+– <terme>FRMG</terme> <denom>(French Meta-Grammar)</denom> <origine>se base sur une méta-grammaire abstraite avec des arbres hautement factorisés (Thomasset & Villemonte de La Clergerie, 2005) compilée en un analyseur hybride TAG/TIG grâce au système DYAL OG.</origine>
+– <terme>S X LFG-F R</terme> (Boullier & Sagot, 2006) <definition>est une grammaire LFG profonde efficace non probabiliste compilée en analyseur LFG par S X L FG, un système basé sur S YNTAX.</definition>
+S X LFG-F R (Boullier & Sagot, 2006) est une grammaire LFG profonde efficace non probabiliste compilée en analyseur LFG par <terme>S X L FG</terme>, <definition>un système basé sur S YNTAX.</definition>
+Nous utilisons aussi de façon ponctuelle l’étiqueteur syntaxique MrTagoo (Molinero et al., 2007; Graña, 2000) et le classifieur d’entropie MegaM (Daumé III, 2004).
+Cette étape est réalisée grâce à <terme>un classifieur d’entropie</terme>, <definition>c.a.d, un outil statistique qui permet de calculer une adéquation (une entropie) entre les données qu’il reçoit à l’évaluation et les données sur lesquelles il a été entraîné (Daumé III, 2004).</definition>
+Dans ce but, nous profitons du fait que les constructions syntaxiques sont plus fréquentes et bien moins diverses que les formes lexicales.
+4.1 Détection d’information lexicale à courte portée via un étiqueteur
+Nous appelons <terme>information lexicale de courte portée</terme> <definition>toute information pouvant être déterminée par un étiqueteur syntaxique.</definition> Pour l’instant, nous ne considérons que la catégorie syntaxique.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2011-long-025_annoteIE_new.txt
+
+
+1  Introduction
+
+Les techniques de <terme>lissage de modèles de langue<terme> <definition>reposent habituellement sur des hypothèses purement statistiques pour estimer la probabilité des évènements inconnus</definition>.
+The most popular <definition>language models</definition> <MR>(</MR><terme>n-grams</terme><MR>)</MR> take no advantage of the fact that what is being modeled is language.
+Nous présentons ici une technique de <terme>lissage pour les modèles de langue trigrammes</terme> qui repose sur la structure des évènements inconnus<MR>, c’est-à-dire</MR> <definition>la manière dont les trigrammes inconnus peuvent être construits à partir des trigrammes connus en utilisant une opération structurelle linguistiquement justifiée, l’analogie</definition>.
+Suivant cette supposition, on peut faire l’hypothèse que <terme>les trigrammes inconnus</terme><MR>, c’est-à-dire</MR> <definition>apparaissant zéro fois dans le corpus d’entraînement</definition>, pourraient être reconstruits à l’aide de <definition>trigrammes apparaissant une fois dans le corpus</definition><MR>, c’est-à-dire</MR> <terme>les trigrammes hapax</terme>.
+<definition>Des techniques de lissage plus élaborées ont été proposées afin de réduire la taille des modèles de langue</definition><MR>, nous pensons en particulier au</MR> <terme>clustering (Brown et al., 1992)</terme>.
+Immédiatement au-dessus de la classe des évènements d’effectif nul, vient <definition>la classe des évènements observés une seule fois dans le corpus d’entraînement</definition><MR> : ce sont</MR> <terme>les hapax</terme>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2006-long-010_annoteIE.txt
+
+
+Introduction
+<terme>La synthèse d’information</terme> <definition>est définie comme le processus d’extraction, d’organisation et de correspondance entre des informations d’un ensemble de documents afin d’obtenir un rapport complet et non-redondant qui satisfait à un besoin précis d’information</definition>.
+Une forme particulière de synthèse d’information est <terme>un résumé multidocuments orienté par une requête.</terme>
+<definition>C’est un texte simple condensant un ensemble de documents avec une perte minimum d’information importante </definition>(Amigo et al., 2004).
+<terme>La Document Understanding Conference</terme> <denom>(DUC)</denom> <definition>qui est une campagne d’évaluation annuelle portant sur le résumé automatique de textes.</definition> La tâche de la campagne 2005 avait changé considérablement par rapport à celles des années prédécentes et comportait une notion de synthèse d’information.
+Dans cet article, nous présentons <terme>CATS</terme> <denom>(Cats is an Answering Text Summarizer)</denom> (Farzindar et al., 2005), <definition>le système que nous avons développé pour produire des résumés multidocuments orientés par une requête ainsi que les résultats obtenus lors de notre participation à l’évaluation de DUC 2005.</definition>
+
+2.
+Élément de base
+<terme>Un élément de base</terme> <denom>(Basic Element)</denom> (Hovy et al., 2005) <definition>est un triplet qui décrit la relation grammaticale entre deux mots dans une phrase</definition>.
+<terme>ROUGE</terme> <denom>(Recall-Oriented Understudy for Gisting Evaluation)</denom> <definition>est la mesure d’évaluation des résumés basée sur le calcul statistique de co-occurrence de n-grammes communs entre le résumé automatique est le résumé modèle</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-005_annoteIE_new.txt
+
+
+L’analyse de travaux existants en TAL et en linguistique montre que le contexte cross-langue peut en effet être exploité de différentes manières :
+– <terme>études comparatives</terme><MR>, qui</MR> <definition>permettent de trouver des régularités et universaux interlangues</definition>.
+Ce type d’approche a été par exemple exploitée pour l’étude de la grammaticalisation (Willett, 1988), de la modalité (Diewald et Smirnova, 2010), des structures argumentatives (Li, 2011) ou stylistiques (Vinay et Darbelnet, 1958) ;
+– <terme>études cross-langues contrastives</terme><MR>, qui</MR> <definition>visent à faire des analyses comparatives entre les langues afin de relever des constantes aux langues comparées et des différences propres à chaque langue (Cartoni et Namer, 2012; Lefer et Grabar, 2013) </definition>;
+– <terme>transposition et adaptation de méthodes et ressources d’une langue vers une autre</terme><MR>, qui</MR> <definition>visent à faire profiter une langue grâce aux travaux, méthodes et ressources déjà réalisés et éprouvés dans une autre langue (Farreres et al., 1998; Huang et al., 2002; Rodrigues et al., 2006) </definition>;
+– <terme>collaboration entre les langues</terme><MR>, qui</MR> <definition>vise à appliquer des méthodes ou ressources dans des langues différentes pour ensuite combiner les résultats</definition>.
+Comme <terme>les termes</terme> <MR>sont</MR> <definition>des structures syntaxiques particulières (souvent des groupes nominaux et non pas des phrases bien formées)</definition> et pour garantir une meilleure qualité de l’étiquetage, nous transformons les termes en pseudo-phrases bien formées.
+Ainsi, deux <terme>termes complexes sont considérés comme synonymes</terme> <MR>si</MR> <definition>au moins un de leurs composants à une position syntaxique donnée est synonyme et l’autre composant est identique (Hamon et Nazarenko, 2001)</definition>.
+Selon l’hypothèse de l’inclusion lexicale (Kleiber et Tamba, 1990), il existe <terme>une relation de subsomption hiérarchique entre deux termes</terme> <MR>lorsqu’</MR><definition>un terme est lexicalement inclus, à une position syntaxique donnée, dans un autre terme</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2006-long-010_annoteCommun.txt
+
+
+Introduction
+<terme>La synthèse d’information</terme> <MR>est définie comme</MR> <definition>le processus d’extraction, d’organisation et de correspondance entre des informations d’un ensemble de documents afin d’obtenir un rapport complet et non-redondant qui satisfait à un besoin précis d’information</definition>.
+<MR>C’est</MR> <definition>un texte simple condensant un ensemble de documents avec une perte minimum d’information importante </definition>(Amigo et al., 2004).
+À la différence <terme>des résumés indicatifs</terme> <MR>(qui</MR> <definition>aident à déterminer si un document est pertinent à une requête particulière</definition><MR>),</MR> <terme>les résumés informatifs</terme> <MR>doivent</MR> <definition>répondre à des questions précises</definition> (Farzindar et Lapalme, 2003).
+<even>La Document Understanding Conference</even> <MR>(</MR><denom>DUC</denom><MR>)</MR> <MR>qui est</MR> <definition>une campagne d’évaluation annuelle portant sur le résumé automatique de textes</definition>.
+Élément de base
+<terme>Un élément de base</terme> <MR>(</MR><denom>Basic Element</denom><MR>)</MR> (Hovy et al., 2005) <MR>est</MR> <definition>un triplet qui décrit la relation grammaticale entre deux mots dans une phrase</definition>.
+Nous utilisons <terme>la similarité du cosinus</terme> <MR>en calculant</MR> <definition>la ressemblance entre des vecteurs des poids des mots dans chaque segment thématique et la question</definition> pour ne garder que les segments qui nous intéressent.
+Nous calculons <terme>un pointage</terme> selon <definition>la ressemblance entre les mots des constituants des éléments de base des deux phrases</definition>.
+<terme>ROUGE</terme> <MR>(</MR><denom>Recall-Oriented Understudy for Gisting Evaluation</denom><MR>)</MR> <MR>est</MR> <definition>la mesure d’évaluation des résumés basée sur le calcul statistique de co-occurrence de n-grammes communs entre le résumé automatique est le résumé modèle</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-001_annoteIE_new.txt
+
+
+En ce sens, étant donné que toute analyse linguistique doit passer par une première étape d'<terme>analyse morpho-lexicale</terme><MR>, qui consiste a</MR> <definition>tester l'appartenance de chaque mot du texte au lexique de la langue</definition>, nous avons entrepris de construire un système d'analyse morphologique pour l'amazighe standard du Maroc.
+2 La langue amazighe
+
+2.1 Historique
+
+<terme>La langue amazighe</terme> <MR>connue aussi sous le nom du</MR> <denom>berbère ou Tamazight</denom>, <MR>est</MR> <definition>une branche de la famille de langue afro-asiatique (chamito-sémitique) (Greenberg, 1966; Ouakrim, 1995) séparée en deux : langues berbères du Nord et du Sud</definition>.
+0 Les noms propres
+
+<terme>Les noms propres</terme> <definition>désignent soit des personnes ou des lieux (noms de villes ou villages), aussi dits « toponymes »</definition>.
+4.2 Formalisation des noms communs et dérivés
+
+Toute analyse linguistique doit passer par une première étape d'<terme>analyse lexicale</terme><MR>, qui consiste a</MR> <definition>tester l'appartenance de chaque mot du texte au lexique de la langue</definition>.
+<terme>La morphologie dérivationnelle</terme> <definition>s'occupe de la création des mots appartenant a des catégories souvent différentes de celle de base</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-015_annoteIE_new.txt
+
+
+1    Introduction
+
+<terme>La segmentation thématique</terme> <MR>consiste à</MR> <definition>mettre en évidence la structure sémantique d’un document et les algorithmes développés pour cette tâche visent à détecter automatiquement les frontières qui définissent des segments thématiquement cohérents</definition>.
+<terme>Déterminer les segments thématiques à l’aide de modèles probabiliste</terme> <MR>consiste la plupart du temps à</MR> <definition>inférer la séquence de thèmes la plus probable à partir des mots observés et à dériver les positions des frontières (Yamron et al., 1998; Blei and Moreno, 2001)</definition>.
+<MR>La plupart d’entre elles</MR> <definition>repose sur la cohésion du vocabulaire pour identifier des segments cohérents dans les textes, exploitant les mots qu’ils contiennent et les relations sémantiques que ces mots entretiennent</definition>.
+Pour mesurer la cohérence dans les (segments de) textes, <terme>la cohésion lexicale</terme>, <definition>fondée sur la répétition de mots ou sur l’exploitation de chaînes lexicales</definition>, est fréquemment retenue en privilégiant l’une ou l’autre des deux stratégies suivantes : soit on cherche à maximiser la mesure de cohésion lexicale des segments, en regroupant les portions de texte lexicalement cohérentes, soit on cherche à identifier des ruptures entre les segments en plaçant des frontières quand survient un changement significatif dans le vocabulaire utilisé (Hearst, 1997).
+Dans ce cadre, les notions d’événement et de thème ont été définies : <terme>un événement</terme> <MR>est</MR> <definition>quelque chose qui se produit à un instant et un endroit spécifique  et qui est associé à des actions particulières</definition> ; <terme>un thème</terme> <MR>est, quant à lui,</MR> <definition>l’ensemble formé d’un événement et de tous les événements qui lui sont directement liés</definition>.
+<definition>Les points de scores de similarité les plus bas (i.e., forte rupture)</definition> <MR>représentent alors</MR> <terme>les frontières thématiques</terme>.
+La probabilité P[w ij |Si ] est donnée par une loi de Laplace dont les paramètres sont estimés sur 1, f est le nombre d’occurrences de w ij dans Si et k est <definition>le nombre total de mots différents dans le texte</definition> W <MR>(i.e.,</MR> <terme>la taille du vocabulaire</terme>).
+<definition>Les segments ne partageant pas beaucoup de vocabulaire quoiqu’abordant le même thème</definition> <MR>pourraient alors être considérés comme</MR> <terme>similaires</terme>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-006_annoteIE_new.txt
+
+
+Cette base est organisée autour du <MT>concept de</MT> <terme>synset</terme> <MR>(</MR><definition>ensemble de synonymes</definition><MR>)</MR>, chaque synset représentant un sens très précis à l’aide d’une définition et d’un certain nombre de <terme>mots</terme> <MR>que nous nommons</MR> <denom>littéraux</denom>.
+Pour <terme>la synonymie</terme>, <definition>si deux mots partagent les mêmes co-occurents dans une relation syntaxique donnée, alors ils peuvent être synonymes dans ce contexte</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2009-long-023_annoteIE_new.txt
+
+
+<terme>Les phrases analysables</terme> <MR>sont considérées comme</MR> <definition>couvertes lexicalement et grammaticalement (même si les analyses obtenues ne coïncident pas toujours avec leur sens véritable)</definition>.
+<terme>Les phrases non-analysables</terme> <MR>sont</MR> par contre <definition>non couvertes lexicalement et/ou grammaticalement</definition>.
+Cette étape est réalisée grâce à <terme>un classifieur d’entropie</terme><MR>, c.a.d,</MR> <definition>un outil statistique qui permet de calculer une adéquation (une entropie) entre les données qu’il reçoit à l’évaluation et les données sur lesquelles il a été entraîné (Daumé III, 2004)</definition>.
+4.1 Détection d’information lexicale à courte portée via un étiqueteur
+Nous <MR>appelons</MR> <terme>information lexicale de courte portée</terme> <definition>toute information pouvant être déterminée par un étiqueteur syntaxique</definition>.
+7 Validation manuelle des corrections
+Contrairement à (van de Cruys, 2006; Yi & Kordoni, 2006), nous privilégions <terme>une approche semi-automatique</terme> <definition>impliquant une étape de validation manuelle</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-012_annoteIE_new.txt
+
+
+Le P7T 5 est probablement le corpus annoté le plus utilisé et le plus référencé, et ce essentiellement pour trois raisons : il est libre d’usage pour des activités de recherche, il bénéficie d’<terme>une analyse multi-niveaux</terme> <MR>(</MR><definition>de la structure textuelle à la structure syntaxique en passant par des annotations en morphologie</definition><MR>)</MR> et il compte près du double de mots annotés que tous les autres corpus disponibles réunis.
+Le corpus étant <terme>construit semi-automatiquement</terme> <MR>(</MR><definition>d’abord analysé automatiquement puis validé manuellement</definition><MR>)</MR>, ce type de problème illustre le fait que la validation humaine ne garantie pas l’absence d’erreurs sur un large corpus.
+On peut se poser la question de la robustesse et de la précision des systèmes entraînés sur ceux-ci pour traiter des textes plus récents (qui présentent de nouveaux phénomènes linguistiques et des caractères encodés en <terme>UTF-8</terme><MR>, qui est</MR><definition> le standard de facto aujourd’hui pour encoder des textes en français</definition>) et/ou de genre différent.
+Les mots composant les composés (<MR>nous appelons</MR> <MT>«</MT><terme>mots composants</terme><MT>»</MT> <definition>les mots qui composent les mots composés</definition>) sont signalés mais seulement un sous-ensemble bénéficie d’une catégorie grammaticale et aucun d’eux ne bénéficie des autres <terme>traits</terme> <MR>(</MR><exempl>sous-catégorie, flexions morphologiques et lemme</exempl><MR>)</MR>.
+Cela conduit la majorité des systèmes de segmentation (Benoît et Boullier, 2008; Nasr et al., 2010; Constant et al., 2011) à exploiter, en complément de règles générales, <definition>des listes de formes finies ou régulières</definition> <MR>à considérer comme</MR> <terme>unités lexicales</terme>.
+Seulement 27 des 44 fichiers composant <terme>la section tagged</terme> <MR>(</MR><definition>étiqueté grammaticalement</definition><MR>)</MR> de la version de Janvier 2012 sont valides (c’est-à-dire vérifient la spécification définie par le schéma NG fourni par les auteurs.)
+Trois mesures d’évaluation sont considérées comme pertinentes pour nos expériences : la précision sur les tokens, <terme>la précision sur les phrases</terme> <MR>(</MR><definition>nombre de phrases dans lesquelles tous les tokens ont été correctement étiquetés par rapport au nombre de phrases total</definition><MR>)</MR> et <terme>la précision sur les mots inconnus</terme> <MR>(</MR><definition>calculée à partir des tokens n’apparaissant pas dans l’ensemble d’entraînement</definition><MR>)</MR>.
+4     Travaux connexes relatifs à la construction de corpus
+
+<terme>La procédure d’annotation morpho-syntaxique de corpus</terme> <MR>repose en général sur</MR> <definition>une procédure en deux étapes 24 : d’abord une assignation automatique des étiquettes par un étiqueteur existant (étape aussi appelée «pré-annotation») et ensuite une révision de celles-ci par des annotateurs humains</definition> (Hajičová et al., 2010).
+La procédure d’annotation morpho-syntaxique de corpus repose en général sur une procédure en deux étapes 24 : d’abord <definition>une assignation automatique des étiquettes par un étiqueteur existant</definition> <MR>(étape aussi appelée</MR> <MT>«</MT><terme>pré-annotation</terme><MT>»</MT><MR>)</MR> et ensuite une révision de celles-ci par des annotateurs humains</definition> (Hajičová et al., 2010).On retrouve cette manière de précéder dans la construction des corpus Penn Treebank (Marcus et al., 1993), PAROLE, MULTEXT JOC (Véronis et Khouri, 1995), French Treebank (Abeillé et al., 2003), FREEBANK (Salmon-Alt et al., 2004), TCOF-POS (un corpus libre de français parlé) (Benzitoun et al., 2012) et Sequoia (Candito et Seddah, 2012).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2003-long-017_annoteIE.txt
+
+
+<auteur>Sperber et Wilson</auteur> définissent <terme>le contexte</terme> comme <definition>un ensemble de propositions (ou hypothèses), ces propositions pouvant être vraies, probablement vraies, plutôt vraies, plutôt fausses, probablement fausses, ou fausses.</definition> Ces degrés, appelés forces des propositions, varient au cours de la communication, au fur et à mesure que les énoncés apportent de nouvelles informations.
+<terme>Un domaine de référence</terme> <definition>est un sousensemble contextuel, de nature linguistique, visuelle, gestuelle ou encore liée au déroulement de l’interaction ou à la tâche applicative.</definition> De manière simplifiée, <definition>il s’agit d’un groupe d’objets dans lequel les composants de l’expression référentielle permettent d’une part d’extraire un référent, d’autre part de préparer un support pour l’interprétation d’une future référence.</definition> Ainsi, « le triangle rouge » contient deux propriétés dont la combinaison doit être discriminante dans un domaine de référence qui doit, pour justifier cette expression et dans la mesure du possible, comprendre un ou plusieurs triangles non rouges.
+3 Une caractérisation de la pertinence
+Nous nous plaçons dans le cadre du dialogue homme-machine à <terme>support visuel</terme> <definition>(qui incite l’utilisateur à s’exprimer par la voix et le geste).</definition> Nous nous intéressons tout d’abord aux effets contextuels d’un acte de référence.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2012-long-007_annoteIE.txt
+
+
+L’autre, <terme>la vectorisation</terme>, <definition>est une technique de calcul de similarité</definition> que nous avons développée et qui offrent d’intéressantes propriétés.
+Dans le cas des textes, ces représentations consistent souvent à considérer <terme>le document</terme> <syno>(ou n’importe quelle donnée textuelle)</syno> comme <terme>un sac-de-mots</terme>, <definition>c’est-à-dire un ensemble non structuré, sans information sur la séquentialité des mots dans le texte</definition>.
+Sa formulation la plus connue est (<terme>tf</terme> <definition>est le nombre d’occurrence ou la fréquence du terme t dans le document considéré</definition>, <terme>df sa fréquence documentaire</terme>, <definition>c’est-à-dire le nombre de documents dans lequel il apparaît</definition>, N est le nombre total de documents) : wT F −IDF (t, d) = tf (t, d) ∗ log(N/df (t))
+Sa formulation la plus connue est (tf est <terme>le nombre d’occurrence</terme> <syno>ou la fréquence du terme t dans le document considéré</syno>, df sa fréquence documentaire, c’est-à-dire le nombre de documents dans lequel il apparaît, N est le nombre total de documents) : wT F −IDF (t, d) = tf (t, d) ∗ log(N/df (t))
+Outre le TF-IDF/cosinus, beaucoup de techniques (pondérations et similarités) pour calculer des similarités dans des espaces algébriques existent (Tirilly, 2010, pour une revue).
+Score 
+FIGURE 1 – Schématisation du principe de vectorisation d’un document
+
+
+<terme>La vectorisation</terme> <definition>est une technique de plongement (embedding) permettant de projeter un calcul de similarité quelconque entre deux documents (ou un document et une requête pour la RI) dans un espace vectoriel</definition>.
+5.2 Approches proposées
+L’approche que nous avons proposée lors de notre participation repose sur <terme>un apprentissage paresseux</terme> <denom>(lazy-learning)</denom><definition>, à savoir les k-plus proches voisins (k-ppv)</definition>, qui se veut souple et adapté à la tâche.
+6.1 Description de la tâche
+
+<terme>La segmentation thématique</terme> <definition>est une tâche classique du TAL consistant à diviser un texte ou un flux textuel en parties thématiquement cohérentes<definition>.
+6.3 Résultats
+Pour évaluer la qualité des segmentation sur nos jeux de données, nous indiquons <terme>la mesure WindowDiff</terme> <denom>(WD)</denom>,<finalite> habituellement utilisée pour l’évaluation de ce type de tâche</finalite>, et <definition>qui peut être vu comme un taux d’erreurs</definition> (Pevzner et Hearst, 2002, pour une présentation détaillée).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-009_annoteIE_new.txt
+
+
+1      Introduction
+
+<terme>La résolution de la coréférence</terme> <MR>consiste à</MR> <definition>partitionner une séquence de syntagmes nominaux (ou mentions) apparaissant dans un texte en un ensemble d’entités qui partagent chacune le même référent</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-002_annoteIE_new.txt
+
+
+<MR>On peut la définir comme</MR> <definition>l’étude des techniques permettant d’apprendre une grammaire formelle ou tout autre modèle capable de représenter un langage (comme un automate, une expression régulière, etc...) à partir d’exemples de séquences (éventuellement enrichies) appartenant (ou non) à ce langage</definition>.
+Par ailleurs, <terme>le chunking</terme> <MR>peut également être vu comme</MR> <definition>une tâche d’annotation</definition> (objet de la Shared Task CoNLL’2000) et de ce fait abordé via des méthodes d’apprentissage statistique.
+2.1    La tâche
+
+La tâche de <terme>chunking</terme><MR>, également appelée</MR> <denom>analyse syntaxique de surface</denom>, <definition>a pour but d’identifier les groupes syntaxiques élémentaires des phrases</definition>.
+<terme>Les chunks</terme> <MR>sont</MR> en effet <definition>des séquences contigües et non-récursives d’unités lexicales liées à une unique tête forte (Abney, 1991)</definition>.
+L’exemple précédent devient ainsi : (la/DET dépréciation/NC)N P par_rapport_au/P (dollar/NC)N P a/V été/VPP limitée/VPP à/P (2,5/DET %/NC)N P.
+
+3        L’inférence grammaticale
+
+<terme>L’inférence grammaticale</terme> <MR>(</MR><denom>IG</denom><MR>)</MR> <MR>est</MR> <definition>un domaine de recherche très riche apparu dans les années 60 dont il n’est, par conséquent, pas aisé de faire un résumé</definition>.
+3.1        Bref état de l’art
+
+<terme>L’IG</terme> <definition>étudie les différentes manières d’apprendre automatiquement un dispositif symbolique capable de représenter un langage (comme une grammaire formelle, un automate, etc...) à partir d’un ensemble de séquences (parfois enrichies) regroupées selon leur (non-)appartenance à ce langage (de la Higuera, 2010)</definition>.
+Les langages k-réversibles sont <terme>réguliers</terme>, ils sont donc <definition>représentables par des automates finis</definition>.
+Pour la tâche de chunking complet, nous avons calculé <terme>les micro et macro-average</terme><MR>, qui correspondent aux</MR> <definition>moyennes des F1-mesures</definition> des différents types de chunks, pondérées (micro) ou pas (macro) par leur proportion.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-007_annoteIE_new.txt
+
+
+2     Méthode de traduction pour la compréhension
+
+Le problème de <terme>la compréhension d’un énoncé utilisateur</terme> <MR>peut être vu comme</MR> un problème de <definition>traduction de la séquence de mots qui forme cet énoncé (langue source) vers une séquence de concepts (langue cible)</definition>.
+3     Méthode de compréhension pour la traduction
+
+Dans cette approche, le problème de <terme>la traduction d’une phrase</terme> <MR>est considéré comme</MR> un problème d’<definition>étiquetage de la séquence de mots source, avec comme étiquettes possibles les mots de la langue cible</definition>.
+<terme>Le CER</terme> <MR>est</MR> <definition>l’équivalent du taux d’erreur en mots (WER), et peut être défini comme le rapport de la somme des concepts omis, insérés et substitués sur le nombre de concepts dans la référence</definition>.
+Par ailleurs, en observant les sorties du modèle CRF-SLU, nous remarquons que <terme>les mots inconnus</terme> <MR>(</MR><definition>hors-vocabulaire</definition><MR>)</MR> dans le test ont été traduits par d’autres mots du corpus cible selon le contexte général de la phrase, contrairement à l’approche LLPB-SMT qui a tendance à projeter les mots hors-vocabulaire tels qu’ils sont dans la phrase traduite.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2007-long-002_annoteIE.txt
+
+
+1  Introduction
+
+Hopfield (Hopfield, 1982; Hertz et al., 1991) s’est inspiré des systèmes physiques comme <terme>le modèle magnétique d’Ising</terme> <definition>(formalisme issu de la physique statistique decrivant un système avec des unités à deux états nommées spins)<definition> pour construire un réseau neuronal avec des capacités d’apprentissage et de récupération de patrons.
+Nous allons nous différencier de (Hopfield, 1982) sur deux points : S est <terme>une matrice entière</terme> <definition>(ses éléments prennent des valeurs fréquentielles absolues)</definition> et nous utilisons les éléments J i,i car cette auto-corrélation permet d’établir l’interaction du mot i parmi les P phrases, ce qui est important en TALN.
+Pour calculer les interations entre les N termes du vocabulaire, on applique <terme>la règle de correlation de Hebb</terme>, <definition>qui en forme matricielle est égale à : J = ST × S 3 4</definition>  (4)
+
+Cependant le lecteur intéressé peut consulter, par exemple (Hopfield, 1982; Kosko, 1988; Hertz et al., 1991).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2002-long-014_annoteIE.txt
+
+
+L’une d’entre elles, particulièrement intéressante pour l’analyse, est <terme>l’entassement paradigmatique</terme> <definition>: la recherche des mots suscite chez le locuteur un processus de répétitions-corrections dans lequel les syntagmes sont systématiquement repris en leur début comme dans cet exemple : “pour la euh vers la station enfin euh vers la station de métro”.</definition>
+Ainsi, ce processus préserve des structures minimales de groupes de mots syntaxiquement cohérentes.
+bunsetsu pour la langue japonaise, ou <terme>chunks pour la langue anglaise</terme>, <auteur>décrits par Abney</auteur> comme <definition>des unités sémantiques et prosodiques</definition> (Abney, 1991).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-016annoteIE_new.txt
+
+
+Tel est le cas d’<terme>une ellipse verbale ou d’une élision du sujet</terme>, par exemple, <definition>phénomènes qui interviennent lorsque deux phrases reliées par une conjonction partagent le même verbe, ou le même sujet</definition>.
+Tous ces formalismes partagent <definition>la propriété de ne pas effacer, et de ne pas copier de matériel syntaxique ou phonologique</definition> <MR>: nous parlerons de</MR> <terme>propriété de linéarité</terme>.
+2      Grammaires Catégorielles Abstraites
+
+<terme>Les grammaires catégorielles abstraites</terme> <MR>peuvent être vues comme</MR> <definition>des grammaires de λ-termes simplement typés</definition>.
+5     Conclusion
+
+<terme>Les phénomènes d’ellipses</terme> sont fréquents dans le langage naturel et <MR>sont</MR> <definition>des exemples de phénomènes non-linéaires au niveau de l’interface syntaxe-sémantique</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-013_annoteIE_new.txt
+
+
+Segmentation 
+Nous partons ici d’<terme>une transcription enrichie</terme><MR>, c’est-à-dire</MR> <definition>avec des ponctuations fortes, mais avec peu de ponctuations faibles, et pas de mots composés</definition>.
+</exempl>
+– <terme>Répétitions</terme> <MR>qui concernent</MR> <definition>la répétition à l’identique</definition> : qui a retardé un peu <nos> nos commentaires, qui avait été sérieusement amoché <au> au masque et la Plume, a été bluffé par le jeu <de> de Morgan Freeman.
+– <terme>Révisions</terme> <MR>qui concernent</MR> <definition>des révisions de forme.</definition>
+– <terme>Marqueurs de discours</terme> <MR>qui sont</MR> <definition>des mots ou des locutions qui ont une valeur illocutoire sans avoir de fonction syntaxique dans l’énoncé</definition> <MR>comme par exemple</MR> <exempl>ah,bref, mais bon voilà, non non non, na na na.
+Plusieurs notions sont possibles : une notion phonétique ou <terme>la phrase</terme> <definition>est délimitée par la durée des pauses</definition>, ce qui est le cas de la transcription ESTER 3, une notion dialogique où <terme>la phrase</terme> <MR>correspond à</MR> <definition>un tour de parole</definition>, une notion discursive où <terme>la phrase</terme> <MR>correspond à</MR> <definition>un acte de langage</definition>, et une notion syntaxique où <terme>la phrase</terme> <MR>correspond à</MR> <definition>une plus grande unité syntaxique complète (avec enchâssement possible)</definition>.
+<definition>Une séquence autonome associée à un acte de langage</definition> <MR>forme</MR> <terme>une phrase racine</terme>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2015-long-025_annoteIE_new.txt
+
+
+À la place, nous proposons d’utiliser <terme>des représentations denses du type plongements</terme> <MR>(</MR><denom>embeddings</denom><MR>)</MR> <MR>qui permettent de</MR> <definition>modéliser la similarité entre symboles, c’est-à-dire entre mots, entre parties du discours et entre catégories syntagmatiques</definition>.
+Ce que nous proposons de nouveau, c’est de construire un analyseur dont le modèle de pondération est fondamentalement basé sur <definition>des vecteurs denses de réels</definition>.
+Dans ce contexte, <terme>le problème de l’analyse syntaxique</terme> <MR>consiste à</MR> <definition>trouver la meilleure dérivation possible de la phrase</definition> c’est-à-dire à donner la solution de :
+C∗ =  argmax f (C0⇒3n−1 )  C0⇒3n−1 ∈G EN(w1n )
+
+où G EN(w1n ) est l’ensemble des analyses possibles pour une phrase de longueur n. L’algorithme que nous présentons ici ne construit pas l’ensemble des dérivations possibles pour une phrase donnée mais procède par recherche gloutonne.
+Cela suggère que <definition>les classifieurs habituellement utilisés pour l’analyse syntaxique</definition> <MR>(</MR><terme>perceptron</terme><MR>,</MR><denom> RLM</denom><MR>)</MR> ne sont pas suffisamment puissants pour tirer pleinement parti des informations contenues dans les plongements lexicaux.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2002-long-014_annoteCommun.txt
+
+
+L’une d’entre elles, particulièrement intéressante pour l’analyse, est <terme>l’entassement paradigmatique</terme> <MR>:</MR> <definition>la recherche des mots suscite chez le locuteur un processus de répétitions-corrections dans lequel les syntagmes sont systématiquement repris en leur début</definition> comme dans cet exemple : “pour la euh vers la station enfin euh vers la station de métro”.
+bunsetsu pour la langue japonaise, ou <terme>chunks</terme> pour la langue anglaise, <MR>décrits par Abney comme</MR> <definition>des unités sémantiques et prosodiques (Abney, 1991)</definition>.
+La dernière phase de composition essaie de trouver ce que Blanche-Benveniste appelle <terme>le “noyau principal”</terme> de chacune <definition>des propositions dont est constitué l’énoncé</definition> <MR>(par exemple</MR> <exempl>une question ou un verbe lorsqu’ils existent</exempl><MR>)</MR> et de le relier aux autres éléments (qui à ce stade ne sont plus si nombreux) ; si l’énoncé est composé de plusieurs noyaux principaux, le système tente de les coordonner (le premier noyau sert de contexte au noyau suivant).
+Dans le tableau ci-dessous, les énoncés sont classés dans la catégorie <terme>“compréhension incomplète”</terme> <definition>lorsque le sens général de l’énoncé a été dégagé mais qu’il y a eu omission d’un élément non essentiel (l’une des propriétés d’un objet par exemple)</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-017_annoteIE_new.txt
+
+
+<terme>Les chunks</terme> jouent un rôle important dans les théories cognitives comme ACT-R (Anderson et al., 2004)<MR> : il s’agit d’</MR><definition>unités de traitement globales auxquelles il est possible d’accéder directement via des buffers en mémoire à court ou long terme</definition>.
+Ces chunks sont construits par <terme>une fonction d’activation</terme> <MR>(</MR><definition>processus cognitif pouvant être quantifié</definition><MR>)</MR> s’appuyant sur l’évaluation de leur relation au contexte.
+En se situant dans l’hypothèse d’<terme>un traitement incrémental du langage</terme><MR>, dans laquelle</MR> <definition>les mots sont intégrés au fur et à mesure de leur décodage dans une structure en cours de construction</definition>, des travaux antérieurs ont montré la possibilité de mesurer la quantité d’information linguistique 1 disponible au moment de l’intégration d’un mot.
+Dans certains cas, il n’y a <terme>aucune ambiguïté</terme><MR>,</MR> <definition>le traitement est alors purement déterministe</definition>.
+<MR>On entend ici par </MR><terme>information linguistique</terme> <definition>toute propriété morpho-syntaxique ou syntaxique caractérisant la structure en cours de construction</definition>.
+<terme>maximisation</terme> <MR>:</MR> <definition>un mot sera plus ou moins facilement intégré à la structure selon que le nombre de propriétés qui lui sont associées est important ou pas</definition>.
+2  Chunks et activation
+
+La notion de <terme>chunk</terme> est bien connue en TAL<MR>, et généralement définie comme</MR> <definition>une suite de catégories non récursive, formée d’une tête, à laquelle peuvent être adjoints mots fonctionnels et modifieurs adjacents (Abney, 1991) ; (Bird et al., 2009)</definition>.
+2.1  Les chunks dans les théories cognitives
+
+<terme>Le traitement du langage</terme>, comme celui des activités cognitives de haut niveau, <MR>repose sur</MR> <definition>la capacité d’identifier des unités de traitement pouvant être de taille et de nature variable</definition>.
+<terme>Un chunk</terme> <MR>est dans cette approche décrit comme</MR> <definition>un ensemble de propriétés caractérisant une catégorie (ou une unité de plus haut niveau), pouvant par exemple contenir une structure syntaxique partielle (Lewis et Vasishth, 2005)</definition>.
+Elle distingue notamment entre mémoire procédurale et <terme>déclarative</terme><MR>,</MR> cette dernière <definition>permettant de stocker à la fois des informations lexicales (à long terme) mais également les structures nouvelles (à court terme)</definition>.
+section précédente) : <terme>les relations activant un chunk</terme> <MR>peuvent être vues comme</MR> <definition>des propriétés dont on recherche la maximisation</definition>.
+Cet indice <definition>reflète une probabilité d’intégration de chaque mot dans la structures syntaxique en cours de construction (calculé comme une fonction de la différence de probabilité entre les structures précédant et celle intégrant le mot courant)</definition>.
+Ceux-ci <MR>sont</MR> <definition>des structures partielles, pouvant être à la fois stockées dans la mémoire à long terme, mais également construites en temps réel, en mémoire à court terme</definition>.
+Ces chunks reposent sur <MR>une notion d’</MR><terme>activation</terme>, elle-même <MR>correspondant au</MR> <syno>principe Maximize Online Processing</syno> <MR>:</MR> <definition>l’intégration d’un mot à une structure (par exemple l’association de deux catégories pour construire un chunk) repose sur la vérification d’un maximum de propriétés</definition>.
+3  Propriétés et activation
+
+Nous présentons dans cette section les principales caractéristiques de l’approche <terme>des Grammaires de Propriétés</terme> (Blache, 2001) <definition>utilisées pour définir la notion d’activation</definition>.
+Nous présentons dans cette section les principales caractéristiques de l’approche des Grammaires de Propriétés (Blache, 2001) utilisées pour définir <MR>la notion d’</MR><terme>activation</terme>>.Elle <MR>repose sur</MR> <definition>la représentation des informations syntaxiques sous la forme d’un ensemble de propriétés pouvant être décrites, suivant la proposition de (Duchier et al., 2009)</definition>, comme des relations caractérisant un syntagme (ici noté A) et mettant en relation des constituants (notés B, C ou S) :
+Obligation Unicité Linéarité Implication Exclusion Constituance Dépendance 
+A : ∆B A : B!
+<terme>Une propriété</terme> <MR>correspondant à</MR> <definition>une relation entre une ou plusieurs catégories</definition>, le résultat de l’analyse est donc un graphe comme représenté dans la figure suivante illustrant l’analyse de la phrase “L’industrie est très capable.”, extraite du FTB.
+Il s’agit pour cela d’identifier <terme>les contraintes pertinentes</terme><MR>, à savoir</MR> <definition>celles qui permettent de mettre en relation les catégories concernées</definition>.
+Le principe est simple et consiste à parcourir <terme>la grammaire</terme> <MR>(</MR><definition>l’ensemble des contraintes</definition><MR>)</MR> et sélectionner celles qui concernent les catégories.
+L’ensemble des contraintes ainsi identifiées permet de définir <terme>les catégories activées</terme> <MR>: il s’agit de</MR> <definition>toutes les catégories appartenant à cet ensemble et pouvant être réalisées après la catégorie en question</definition>.
+Les mécanismes conduisant à <terme>la construction de chunks</terme> ne sont donc pas les mécanismes classiques de l’analyse syntaxique <MR>:</MR> le problème posé <MR>consiste à</MR> <definition>mesurer les relations unissant deux catégories adjacentes </definition>alors que <terme>l’analyse syntaxique</terme> <MR>consiste à</MR> <definition>intégrer une catégorie à une structure syntaxique globale</definition>.
+<MR>Il s’agit d’</MR><definition>un mécanisme de bas niveau, n’ayant pas recours à l’analyse syntaxique à proprement parler et qui permet la construction d’unités de niveau supra-lexical facilitant le processus car accessibles directement en mémoire</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2010-long-005_annoteIE_new.txt
+
+
+Parmi les limitations de ce dictionnaire, nous avions noté la présence de <terme>cooccurrences incomplètes</terme> <MR>:</MR> <definition>l’extracteur ne considérant que les associations de deux mots, il lui arrivait de générer des combinaisons incomplètes, auxquelles il manque un élément essentiel, comme dans prendre le taureau ___, nager en ___ délire ou ___ le feu aux poudres</definition>.
+2 Travaux antérieurs
+La plupart des travaux sur <terme>les collocations</terme> <MR>(en anglais</MR> <denom>multi-word expression [MWE]</denom><MR>)</MR> ont porté sur <definition>les combinaisons de deux mots</definition>.
+Tutin (2008) analyse <terme>les collocations de plus de deux mots</terme> et conclut qu’elles <MR>peuvent le plus souvent être considérées comme</MR> <definition>des combinaisons binaires respectant une structure prédicat-argument</definition>.
+Dans la tâche d’extraction de collocations à partir de corpus, les mesures statistiques d’association employées pour quantifier le degré de cohésion – et donc de pertinence – des combinaisons candidates sont pour la plupart formulées pour évaluer <definition>les associations de deux éléments</definition> <MR>(ou</MR> <terme>>bigrammes</terme><MR>)</MR>.
+Par <terme>cooccurrence</terme>, <MR>nous entendons</MR> <definition>la présence simultanée et statistiquement significative, dans un corpus, de deux unités linguistiques ou plus en relation syntaxique</definition>.
+Notre <MT>concept de</MT> <terme>cooccurrence</terme> <MR>englobe</MR> <definition>des combinaisons lexicales dont le degré de figement est variable</definition> <MR>: nous y incluons</MR> à la fois <exempl>des combinaisons libres (entendre un cri), des combinaisons semifigées ou collocations au sens strict (pousser un cri) et des locutions figées courantes (cri du coeur) ou terminologiques (cri primal)</exempl>.
+Ils ont en outre introduit <definition>une nouvelle mesure</definition><MR>,</MR> <terme>l’expectative mutuelle</terme>, calculée selon le même principe et donnant, selon leurs tests, de meilleurs résultats que les mesures classiques.
+Parmi les modèles trigrammes, elle a testé deux <definition>mesures</definition> <MR>(</MR><terme>l’information mutuelle spécifique</terme> et <terme>le test du Chi-carré de Pearson</terme><MR>)</MR> qu’elle a étendues aux trigrammes, de même que le modèle log-linéaire de Blaheta et Johnson (2001).
+Dans la formulation de Dunning (1993), reprise dans Manning et Schütze (1999), <terme>le rapport de vraisemblance</terme> <MR>est exprimé comme</MR> <definition>le rapport entre les probabilités de deux hypothèses, modélisant respectivement l’indépendance et la dépendance de deux évènements</definition>.
+À ne pas confondre avec <terme>l’« information mutuelle spécifique »</terme> <MR>(</MR><denom>PMI, pointwise mutual information</denom><MR>)</MR><MR>, qui est</MR> <definition>une mesure de dépendance entre deux événements X = x et Y = y</definition>.
+En théorie de l’information, <terme>l’information mutuelle</terme> <definition>mesure la dépendance de deux variables aléatoires X et Y, et correspond à la valeur espérée des PMI sur l’ensemble de toutes les éventualités de X et Y</definition>.
+<terme>Un arbre syntaxique complet</terme> <MR>correspond en fait à</MR> <definition>un ensemble de liens de dépendance entre les divers mots de la phrase</definition>.
+À l’époque, nous avions implémenté <terlme>un calcul de fréquence pondérée</terme> <MR>qui correspondait à</MR> <definition>la somme des racines carrées des fréquences pour chaque source (Charest et coll., 2007)</definition>.
+<MR>Cette mesure, qui</MR> <definition>allie simplicité et flexibilité, se calcule en prenant la somme des différences entre les proportions espérée et observée d’un phénomène dans chacune des sources par rapport à l’ensemble du corpus</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-017_annoteIE.txt
+
+
+Les chunks jouent un rôle important dans <terme>les théories cognitives</terme> <exempl>comme ACT-R</exempl> (Anderson et al., 2004) : <definition>il s’agit d’unités de traitement globales auxquelles il est possible d’accéder directement via des buffers en mémoire à court ou long terme</definition>.
+<terme>Les chunks</terme> jouent un rôle important dans les théories cognitives comme ACT-R (Anderson et al., 2004) <definition>: il s’agit d’unités de traitement globales auxquelles il est possible d’accéder directement via des buffers en mémoire à court ou long terme</definition>.
+Ces chunks sont construits par <terme>une fonction d’activation</terme> <definition>(processus cognitif pouvant être quantifié) s’appuyant sur l’évaluation de leur relation au contexte</definition>.
+En se situant dans l’hypothèse d’<terme>un traitement incrémental du langage</terme>, <definition>dans laquelle les mots sont intégrés au fur et à mesure de leur décodage dans une structure en cours de construction</definition>, des travaux antérieurs ont montré la possibilité de mesurer la quantité d’information linguistique 1 disponible au moment de l’intégration d’un mot.
+2  Chunks et activation
+
+La notion de <terme>chunk</terme> est bien connue en TAL, et généralement <definition>définie comme une suite de catégories non récursive, formée d’une tête, à laquelle peuvent être adjoints mots fonctionnels et modifieurs adjacents</definition> (Abney, 1991) ; (Bird et al., 2009).
+<terme>Un chunk</terme> <definition>est dans cette approche décrit comme un ensemble de propriétés caractérisant une catégorie (ou une unité de plus haut niveau), pouvant par exemple contenir une structure syntaxique partielle</definition> (Lewis et Vasishth, 2005).
+Ceux-ci <definition>sont des structures partielles, pouvant être à la fois stockées dans la mémoire à long terme, mais également construites en temps réel, en mémoire à court terme</definition>.
+Ces chunks reposent sur une notion d’activation, elle-même correspondant au principe <terme>Maximize Online Processing</terme> <definition>: l’intégration d’un mot à une structure (par exemple l’association de deux catégories pour construire un chunk) repose sur la vérification d’un maximum de propriétés</definition>.
+Elle <definition>repose sur la représentation des informations syntaxiques sous la forme d’un ensemble de propriétés pouvant être décrites</definition>, suivant la proposition de (Duchier et al., 2009), comme des relations caractérisant un syntagme (ici noté A) et mettant en relation des constituants (notés B, C ou S) :
+Obligation Unicité Linéarité Implication Exclusion Constituance Dépendance 
+A : ∆B A : B!
+<definition>Il s’agit d’un mécanisme de bas niveau, n’ayant pas recours à l’analyse syntaxique à proprement parler et qui permet la construction d’unités de niveau supra-lexical facilitant le processus car accessibles directement en mémoire</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2013-long-008_annoteIE_new.txt
+
+
+﻿Identification automatique des relations discursives « implicites » à partir de données annotées et de corpus bruts
+
+RÉSUMÉ
+Cet article présente un système d’identification <terme>des relations discursives dites « implicites »</terme> <MR>(à savoir,</MR> <definition>non explicitement marquées par un connecteur</definition><MR>)</MR> pour le français.
+<definition>Lorsqu’un tel marqueur est présent</definition>, <terme>la relation est dite explicite</terme> <MR>(ou</MR> <syno>marquée ou lexicalisée</syno>) : ainsi, mais lexicalise la relation de contrast dans 1.1.
+Néanmoins, on dispose de données quasiment annotées en grande quantité : celles contenant <terme>un connecteur discursif non ambigu</terme><MR>, c’est-à-dire</MR> <definition>ne déclenchant qu’une seule relation</definition> <MR>(p.ex.,</MR> <exempl>parce que déclenche nécessairement une relation de type explanation</exempl><MR>)</MR>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2008-long-021_annoteIE_new.txt
+
+
+Elle exploite pour cela <definition>la hiérarchie des concepts</definition> <MR>(représentés par</MR> <terme>des synsets</terme><MR>)</MR>, et la définition associée à chacun de ces concepts.
+WordNet est construit sous la forme d'une hiérarchie de <terme>synsets</terme> <MR>(</MR><definition>ensemble de lexies synonymes entre elles</definition><MR>)</MR> ; ces concepts sont liés entre eux par différents types de <terme>relations sémantiques</terme> <MR>(</MR><exempl>hypéronymie, méronymie, antonymie, etc.</exempl><MR>)</MR>.
+Dans la suite de notre article, nous distinguerons systématiquement <MR>les notions de</MR> <terme>lexie</terme> <MR>(</MR><definition>unité lexicale, association d’un signifiant et d’un signifié</definition><MR>)</MR> et de <terme>vocable</terme> <MR>(</MR><definition>unité polysémique regroupant différentes lexies de même signifiant</definition><MR>)</MR>.
+La polysémie régulière dans WordNet
+
+D’un point de vue théorique tout d’abord, il s’agit d'offrir une représentation de <definition>l’un des aspects de la formation du lexique</definition><MR>,</MR> <terme>la polysémie régulière</terme> constituant une source importante de créativité lexicale.
+  L2 = quantité de X contenue dans L1 
+  assiette#2 de X = quantité de X contenue dans une assiette#1
+  bol#2 de X = quantité de X contenue dans un bol#1
+
+2.2 Définition de la polysémie régulière
+Selon Apresjan (1974), <terme>une polysémie est régulière</terme> s'il existe <definition>au moins deux vocables (A et B) ayant chacun deux lexies (A#1~A#2 et B#1~B#2) liées par la même relation sémantique</definition>.
+<terme>La spécialisation</terme> <MR>:</MR> <definition>une lexie L2 est une spécialisation d'une lexie L1 si son sens est plus spécifique que celui de L1</definition>.
+<terme>La métaphore</terme> <MR>:</MR> <definition>deux lexies L1 et L2 sont liées par métaphore si le référent de L1 et celui de L2 sont en relation d'analogie, autrement dit s’ils se ressemblent sur au moins un de leurs aspects</definition>.
+<terme>La métonymie</terme> <MR>:</MR> <definition>deux lexies L1 et L2 sont liées par métonymie si le référent de L1 et celui de L2 sont en relation de contiguïté, autrement dit si les deux référents « se touchent », de façon plus ou moins concrète</definition>.
+Par exemple, parmi les occurrences de la relation entre un mouvement et le son associé, nous obtenons pour « (bruit de) pas » une paire de synsets dont les définitions comportent deux mots en commun (donnant une similarité égale à 48,5%) :
+  {footstep#1} = the sound of a step of someone walking 
+  {footstep#2} = the act of taking a step in walking
+
+9 <terme>TF-IDF</terme> <MR>(</MR><denom>term frequency-inverse document frequency</denom><MR>)</MR> <MR>est</MR> <definition>une méthode de pondération souvent utilisée dans la fouille de textes</definition>.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2003-long-017_annoteCommun.txt
+
+
+Sperber et Wilson <MR>définissent</MR> <terme>le contexte</terme> <MR>comme</MR> <definition>un ensemble de propositions (ou hypothèses), ces propositions pouvant être vraies, probablement vraies, plutôt vraies, plutôt fausses, probablement fausses, ou fausses</definition>.
+Ainsi, la confrontation de la proposition portée par le nouvel énoncé avec les propositions contenues dans le contexte peut donner lieu à <terme>une contextualisation</terme><MR>, c’est-à-dire</MR> <definition>une déduction utilisant ces deux sources d’information comme prémisses</definition>.
+<terme>La pertinence</terme> <MR>peut donc être vue comme</MR> <definition>le rapport des effets contextuels sur l’effort de traitement</definition>.
+Un autre argument œuvrant contre la calculabilité de la pertinence est son aspect <terme>subjectif</terme> <MR>:</MR> <definition>effets et effort dépendent de l’individu, de ses dispositions et de ses expériences</definition>.
+<terme>Un domaine de référence</terme> <MR>est</MR> <definition>un sousensemble contextuel, de nature linguistique, visuelle, gestuelle ou encore liée au déroulement de l’interaction ou à la tâche applicative</definition>.
+Ainsi, de même qu’un énoncé oral porte en lui-même une présomption de pertinence quant à son contenu, nous pouvons considérer qu’une trajectoire gestuelle porte en elle-même une présomption de pertinence quant aux <definition>objets qu’elle cible</definition> <MR>(</MR><terme>les demonstrata</terme><MR>)</MR>, et qu’une expression référentielle multimodale porte en elle-même une présomption de pertinence quant à la façon dont elle désigne un référent, cette façon intégrant le recours à un domaine de référence.
+3 Une caractérisation de la pertinence
+Nous nous plaçons dans le cadre du <terme>dialogue homme-machine à support visuel</terme> <MR>(</MR><MR>qui</MR> <definition>incite l’utilisateur à s’exprimer par la voix et le geste</definition><MR>)</MR>.
+Dans les critères permettant de l’évaluer, nous retenons <terme>la profondeur de la structure arborescente</terme> <MR>(c’est-à-dire</MR> <definition>le nombre de partitions possibles de la scène en groupes perceptifs</definition><MR>)</MR>, et le nombre de nœuds présents dans celle-ci.
+La longueur dépend du gabarit des objets, et la complexité du nombre de singularités, <terme>une singularité</terme> étant selon le modèle de (Bellalem, 1995) <definition>une rupture d’homogénéité pour une des propriétés de la trajectoire</definition> (les principales propriétés étant la courbure et la vitesse), cette rupture dénotant une intention sémantique.
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2005-long-021_annoteCommun.txt
+
+
+(2001) dans une étude basée sur <terme>l'analyse sémantique latente</terme> <MR>(</MR><denom>ASL</denom> <MR>:</MR> <denom>Latent semantic analysis, Latent semantic indexing</denom>, Deerwester et al., 1990), <definition>une technique statistique d'extraction d'espaces sémantiques à partir de corpus qui permet l'estimation de la similarité sémantique entre des mots, des phrases ou des paragraphes</definition>.
+On peut donc se demander si la plus grande partie des bénéfices obtenus par l'ajout de connaissances sémantiques n'est pas due à cette <terme>hyperspécificité du corpus d'apprentissage</terme> <MR>(c.-à-d.</MR> <definition>inclure le matériel de test</definition><MR>)</MR>.
+La proximité entre deux phrases (ou toutes autres unités textuelles), même lorsque ces phrases ne font pas partir du corpus initial, peut être estimée en calculant <terme>un vecteur pour chacune de ces phrases</terme> <MR>-- correspondant à</MR> <definition>la somme pondérée des vecteurs des mots qui les composent</definition> <MR>-</MR>et puis en calculant le cosinus entre ces vecteurs (Deerwester et al.
+L'expérience vise à comparer l'efficacité de l'algorithme selon que <definition>le matériel de test est inclus dans le corpus d'apprentissage</definition> de l'ASL <MR>(</MR><terme>condition non autonome</terme><MR>)</MR> ou qu'<definition>il ne l'est pas</definition> <MR>(</MR><terme>condition autonome</terme><MR>)</MR>.
+<definition>Les mots n'ont pas été tronqués en fonction de leur racine</definition> <MR>(</MR><terme>stemming</denom><MR>)</MR>, suivant en cela la procédure de Choi et al.
+(2001) : <terme>le taux Pk d'erreur de segmentation</terme> (Beeferman, Berger, Lafferty, 1999) <MR>qui indique</MR> <definition>la proportion de phrases qui sont incorrectement classées comme appartenant au même segment ou incorrectement classées comme appartenant à des segments différents</definition>.
+Les espaces autonomes donnent lieu à des performances plus faibles que l'espace non autonome, comme le confirme le test t pour <terme>échantillon appareillé</terme> <MR>(</MR><definition>chaque échantillon de test étant utilisé comme une observation</definition><MR>)</MR> qui est  significatif pour un alpha plus petit que 0.0001.
+(2001), la différence pouvant être due à plusieurs facteurs tels que <terme>le prétraitement du corpus</terme> de Brown <MR>(</MR><definition>identification des mots et des paragraphes</definition><MR>)</MR> ou la fonction de pondération appliquée aux fréquences brutes, qui était ici la formule de pondération décrite dans Landauer, Foltz, et Laham (1998).
+Cette observation souligne la possibilité de constituer par analyse sémantique latente <terme>des connaissances sémantiques plus ou moins génériques</terme><MR>, c'est-àdire,</MR> <definition>des connaissances qui peuvent être utilisées pour traiter de nouvelles données, comme cela a été récemment proposé dans la recherche de l'antécédent d'une anaphore, dans un système de reconnaissance de la parole ou en traduction automatique</definition> (Bellegarda, 2000 ; Klebanov, Wiemer-Hastings, 2002 ; Kim, Chang, Zhang, 2003).
+
+
+
+/Users/pansa/Desktop/enrichissement_corpus_projet/TALNannote_Projet_corpus_enrichissement/taln-2005-long-021_annoteIE.txt
+
+
+(2001) dans une étude basée sur <terme>l'analyse sémantique latente</terme> (ASL : Latent semantic analysis, Latent semantic indexing, Deerwester et al., 1990), <definition>une technique statistique d'extraction d'espaces sémantiques à partir de corpus qui permet l'estimation de la similarité sémantique entre des mots, des phrases ou des paragraphes.</definition>
+
+ En comparant l'efficacité du même algorithme selon qu'il prend en compte ou non ces connaissances sémantiques complémentaires, Choi et al.
+On peut donc se demander si la plus grande partie des bénéfices obtenus par l'ajout de connaissances sémantiques n'est pas due à <terme>cette hyperspécificité du corpus d'apprentissage</terme> <definition>(c.-à-d. inclure le matériel de test)</definition>.
+(2001) : <terme>le taux Pk d'erreur de segmentation</terme> (Beeferman, Berger, Lafferty, 1999) <definition>qui indique la proportion de phrases qui sont incorrectement classées comme appartenant au même segment ou incorrectement classées comme appartenant à des segments différents</definition>.
