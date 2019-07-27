@@ -1,13 +1,14 @@
-il s'agit de
+il s'agit de 
 il s'agit d'un
 il s'agit d'une
-il s'agit des
+il s'agit desnoway
 est caractérisée par
 est caractérisé par
 est considéré comme
 est considérée comme
 sont considérés comme
 sont considérées comme
+
 selon lequel
 selon lesquels
 selon laquelle
@@ -142,4 +143,8 @@ par exemple
 représenté par
 représentée par
 représentés par
-représentées par
+représentées parsdf	q
+q
+q
+qq
+

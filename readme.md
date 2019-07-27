@@ -1,5 +1,5 @@
- # The task is to recognize automatically the definition phrase in scientific articles, in French of course. And in the context of 
-generalisation of probabilistic methods, the best performance of this task is made with a rule method, developped by Thierry Hamon.
+ # The task is to recognize automatically the definition phrase in scientific articles, in French.
+And in the context of generalisation of probabilistic methods, the best performance of this task is made with a rule method, developped by Thierry Hamon.
 
 The rule method consists of two basic elements:
 1, the markers;
